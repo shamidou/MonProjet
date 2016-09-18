@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-       echo "Bonjour cest un autre commit" ;
+       echo "Bonjour cest un autre commit ça !!!" ;
         ?>
     </body>
 </html>
